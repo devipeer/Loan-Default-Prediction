@@ -2,7 +2,7 @@
 Problem definiton:  
 Binary classification model to anticipate customers who will not pay their liabilities based on the loan application dataset.  
   
-Dataset: [Kaggle](https://www.kaggle.com/datasets/hemanthsai7/loandefault/)  
+Dataset: Lion's Den ING Risk Modelling Challenge
 
 ### Project contains:
 - Basic statistical analysis with plots
